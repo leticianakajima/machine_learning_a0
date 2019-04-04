@@ -1,4 +1,4 @@
-# machine_learning_a0
+# machine_learning_a1
 linear algebra review
 
 #g1k0b_a0
